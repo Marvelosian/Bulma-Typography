@@ -1,3 +1,4 @@
 # Bulma-Typography
-A bulma custom typography and/or typography test.
-By using @include font-face(font, fontlocation); in css/bulma-scss-master/
+A Bulma custom typography and/or typography test.
+By using @include font-face(font, fontlocation); in css/bulma-scss-master/Customtypography.scss you can add any web font to bulma.
+I might expand on this project and add custom sizes based on languages, but for now I do not have need for this.
