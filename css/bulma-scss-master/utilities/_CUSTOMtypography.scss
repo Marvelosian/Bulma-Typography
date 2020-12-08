@@ -46,8 +46,12 @@
 		src: $src;
 	}
 }
+//usage @include font-face(fontname, fontlocation);
 
-//@include font-face(font, fontlocation);
+
+//example, it needs tinkering on the variables
+@include font-face(TitilliumWeb-Regular, fonts/TitilliumWeb-Regular);
+$family-TitilliumWeb-Regular: TitilliumWeb-Regular;
 
 // initial-variables
 
